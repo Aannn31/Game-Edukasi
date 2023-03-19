@@ -1,0 +1,272 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main/Main.unity
+    guid: d0aca5bb897e4cd4c8a20b7c1b1a18a7
+  - enabled: 1
+    path: Assets/Scenes/Sejarah Indonesia/Quis/Quis1.unity
+    guid: a4167c3ad9592e049a2f53536bd36954
+  - enabled: 1
+    path: Assets/Scenes/Sejarah Indonesia/Quis/Quis2.unity
+    guid: 4ca198b2185178641a637a10ead42366
+  - enabled: 1
+    path: Assets/Scenes/Sejarah Indonesia/Quis/Quis3.unity
+    guid: c3e6ff7a18e66984b91477e14ea0dfc1
+  - enabled: 1
+    path: Assets/Scenes/Sejarah Indonesia/Tebak Gambar/TG 1.unity
+    guid: 2133d5b40641625429f09543ba56ec63
+  - enabled: 1
+    path: Assets/Scenes/Sejarah Indonesia/Tebak Gambar/TG 2.unity
+    guid: 83a01bec48f418a41a1de3ad5a9d2ff6
+  - enabled: 1
+    path: Assets/Scenes/Sejarah Indonesia/Tebak Gambar/TG 3.unity
+    guid: 05f681c2da282d24da9ddaab940485a0
+  - enabled: 1
+    path: Assets/Scenes/Sejarah Indonesia/Puzzle/Puzzle1.unity
+    guid: d09def30484d8794f81252421ff7d479
+  - enabled: 1
+    path: Assets/Scenes/Sejarah Indonesia/Puzzle/Puzzle2.unity
+    guid: 2edf7d1440d6fc64d8ebbba7c36f8e36
+  - enabled: 1
+    path: Assets/Scenes/Sejarah Indonesia/Puzzle/Puzzle3.unity
+    guid: 2ec62a2556fc1de429505f5d0d8ff6af
+  - enabled: 1
+    path: Assets/Scenes/Pancasila/Quis/Quisp1.unity
+    guid: 975fa2472470c3c42b63aaef0a1843f2
+  - enabled: 1
+    path: Assets/Scenes/Pancasila/Quis/Quisp2.unity
+    guid: a5b0fc7bd37d4234cb48b38e89960cd2
+  - enabled: 1
+    path: Assets/Scenes/Pancasila/Quis/Quisp3.unity
+    guid: ff84da9c90a32c34faf829ccf78a5ea6
+  - enabled: 1
+    path: Assets/Scenes/Pancasila/Tebak Gambar/TGP1.unity
+    guid: 1b3bc2b109ca9da44950e792b63980f2
+  - enabled: 1
+    path: Assets/Scenes/Pancasila/Tebak Gambar/TGP2.unity
+    guid: a93ab729bc90c724f8160098c71698f2
+  - enabled: 1
+    path: Assets/Scenes/Pancasila/Tebak Gambar/TGP3.unity
+    guid: c04f8112a603ee44ead7b98bf911e5bc
+  - enabled: 1
+    path: Assets/Scenes/Pancasila/Puzzle/Puzzlep1.unity
+    guid: 6696f8d634da04546a5bd5b69aeded74
+  - enabled: 1
+    path: Assets/Scenes/Pancasila/Puzzle/Puzzlep2.unity
+    guid: a9c1c5acf8d55e24fac1bc093d8e2d73
+  - enabled: 1
+    path: Assets/Scenes/Pancasila/Puzzle/Puzzlep3.unity
+    guid: 9c8a567973eeed4488f00f456e9d7915
+  - enabled: 1
+    path: Assets/Scenes/Seni & Budaya/Quis/Quiss1.unity
+    guid: 41bdb576b2509054fbf0877e5fbb970e
+  - enabled: 1
+    path: Assets/Scenes/Seni & Budaya/Quis/Quiss2.unity
+    guid: fb698062e31e316488a8d945b2d9975d
+  - enabled: 1
+    path: Assets/Scenes/Seni & Budaya/Quis/Quiss3.unity
+    guid: f097fdd5b0bd2f344b16da314fe005b8
+  - enabled: 1
+    path: Assets/Scenes/Seni & Budaya/Tebak Gambar/TGS1.unity
+    guid: b19931f921c7f2b4d9461f3490b38772
+  - enabled: 1
+    path: Assets/Scenes/Seni & Budaya/Tebak Gambar/TGS2.unity
+    guid: e49a211ddafd3f045ab4ae03373aa3e2
+  - enabled: 1
+    path: Assets/Scenes/Seni & Budaya/Tebak Gambar/TGS3.unity
+    guid: fc50e526adf70d6419e66e82f7c8f1d4
+  - enabled: 1
+    path: Assets/Scenes/Seni & Budaya/Puzzle/Puzzles1.unity
+    guid: fa7369d5d3d9fa346ba7c64873db5bde
+  - enabled: 1
+    path: Assets/Scenes/Seni & Budaya/Puzzle/Puzzles2.unity
+    guid: c4c20d06cdbdc5d439d4c94511f57caa
+  - enabled: 1
+    path: Assets/Scenes/Seni & Budaya/Puzzle/Puzzles3.unity
+    guid: 44838a7a5bfa82c40bf4f70a772669e8
+  - enabled: 1
+    path: Assets/Scenes/Sejarah Indonesia/Loading Quis/LoadingQuis1.unity
+    guid: abf9e4e39da7a5a40ae788b41e4fc20e
+  - enabled: 1
+    path: Assets/Scenes/Sejarah Indonesia/Loading Quis/LoadingQuis2.unity
+    guid: d17621cabaad3bc4fb92eb205b8beb36
+  - enabled: 1
+    path: Assets/Scenes/Sejarah Indonesia/Level/Leveltg.unity
+    guid: a79509d67d25cfc4e8645f1216f261a7
+  - enabled: 1
+    path: Assets/Scenes/Sejarah Indonesia/Level/Levelqz.unity
+    guid: bbebd31a5a1e1ed44a89f12e994451eb
+  - enabled: 1
+    path: Assets/Scenes/Loading/LoadingPilihan.unity
+    guid: 474265cec81f9a34e981d6f342d0cda9
+  - enabled: 1
+    path: Assets/Scenes/Main/Pilihan.unity
+    guid: edc18ce771ec4ea47854bbde14836ccd
+  - enabled: 1
+    path: Assets/Scenes/Sejarah Indonesia/Loading TG/LoadingTG1.unity
+    guid: 19ebd000ae2a7bb4895444c65a0c14a1
+  - enabled: 1
+    path: Assets/Scenes/Sejarah Indonesia/Loading TG/Loadingtg2.unity
+    guid: 31068cff1b6dd7041b79abb5b764346c
+  - enabled: 1
+    path: Assets/Scenes/Sejarah Indonesia/Loading TG/Loadingtg3.unity
+    guid: 8058d64651c1f124aaff9841e4199266
+  - enabled: 1
+    path: Assets/Scenes/Sejarah Indonesia/Level/Levelpz.unity
+    guid: 521297955c6218142a35469ec332c401
+  - enabled: 1
+    path: Assets/Scenes/Sejarah Indonesia/Sejarah.unity
+    guid: b23ca7fb78a7a0a46a1b715261afd96d
+  - enabled: 1
+    path: Assets/Scenes/Sejarah Indonesia/Loading pz/ldpz1.unity
+    guid: d0d86824efcaffb47a8a9a99fcd9a5d1
+  - enabled: 1
+    path: Assets/Scenes/Sejarah Indonesia/Loading pz/ldpz2.unity
+    guid: ff4fbbe3ca5294945bc79e714ee75707
+  - enabled: 1
+    path: Assets/Scenes/Sejarah Indonesia/Loading pz/ldpz3.unity
+    guid: 858b02d28cc88e24da0e14a63baa0df8
+  - enabled: 1
+    path: Assets/Scenes/Main/Piala.unity
+    guid: 571f373c721f31a4999ec5d9879df9fe
+  - enabled: 1
+    path: Assets/Scenes/Pancasila/Pancasila.unity
+    guid: 17156a397dfccb244bf76dd4b9a6840d
+  - enabled: 1
+    path: Assets/Scenes/Pancasila/Level/Levelpz1.unity
+    guid: 2722fe8090df69b4f855d0e4d50f5c67
+  - enabled: 1
+    path: Assets/Scenes/Pancasila/Level/Levelqz1.unity
+    guid: e4aac0dbadc59d44c82dae05aa1514b4
+  - enabled: 1
+    path: Assets/Scenes/Pancasila/Level/Leveltg1.unity
+    guid: 3a9f65ea807c9fe44847082c009dff4a
+  - enabled: 1
+    path: Assets/Scenes/Pancasila/Loading Quis/LoadingQuisp1.unity
+    guid: 4f08b6c8ff4f4404a90eed382df66c3e
+  - enabled: 1
+    path: Assets/Scenes/Pancasila/Loading Quis/LoadingQuisp2.unity
+    guid: 0b6c98989f7f29d4db111c4f3e8211a6
+  - enabled: 1
+    path: Assets/Scenes/Pancasila/Loading Quis/LoadingQuisp3.unity
+    guid: ede2860a25c77a94cbb0e68bfe0c6929
+  - enabled: 1
+    path: Assets/Scenes/Pancasila/Loading TG/LoadingTGp1.unity
+    guid: 80ed9b98f1fc2674da525a7628aa834f
+  - enabled: 1
+    path: Assets/Scenes/Pancasila/Loading TG/Loadingtgp2.unity
+    guid: 104f1f6f47b90e64b86281af7e3911a3
+  - enabled: 1
+    path: Assets/Scenes/Pancasila/Loading TG/Loadingtgp3.unity
+    guid: 2d9c75dd7d04a9544b163fbfa3304a87
+  - enabled: 1
+    path: Assets/Scenes/Pancasila/Loading pz/ldpzp1.unity
+    guid: 80f09984aa1334443b7d6dcc93d665ab
+  - enabled: 1
+    path: Assets/Scenes/Pancasila/Loading pz/ldpzp2.unity
+    guid: e74318a4532116340bfc0c528aebddea
+  - enabled: 1
+    path: Assets/Scenes/Pancasila/Loading pz/ldpzp3.unity
+    guid: 3b3c8bd3d5a6498499b8f5c3c1b41cf1
+  - enabled: 1
+    path: Assets/Scenes/Seni & Budaya/Seni budaya.unity
+    guid: aa0c8e612243b23428637d03bb1fa0e0
+  - enabled: 1
+    path: Assets/Scenes/Seni & Budaya/Level/Levelpz2.unity
+    guid: fdf21f981ee13554a93dd437cc968fe4
+  - enabled: 1
+    path: Assets/Scenes/Seni & Budaya/Level/Levelqz2.unity
+    guid: 161b8c5bf3badfd4abf106bf36985724
+  - enabled: 1
+    path: Assets/Scenes/Seni & Budaya/Level/Leveltg2.unity
+    guid: 0496edf2099cd614e8cbe22e7d01b5fe
+  - enabled: 1
+    path: Assets/Scenes/Seni & Budaya/Loading Quis/LoadingQuiss1.unity
+    guid: c41b7fd149eecc7409511977e1049bd9
+  - enabled: 1
+    path: Assets/Scenes/Seni & Budaya/Loading Quis/LoadingQuiss2.unity
+    guid: f0a2b8f48021e1f458afd1d50c4c3af5
+  - enabled: 1
+    path: Assets/Scenes/Seni & Budaya/Loading Quis/LoadingQuiss3.unity
+    guid: cb0eebad4918af54093dd9527dd30297
+  - enabled: 1
+    path: Assets/Scenes/Seni & Budaya/Loading TG/LoadingTGs1.unity
+    guid: 5f8645f2c7009b145877388d3ddf28a2
+  - enabled: 1
+    path: Assets/Scenes/Seni & Budaya/Loading TG/Loadingtgs2.unity
+    guid: 11e5ec3f1bff6df49bd5cf4f1302c916
+  - enabled: 1
+    path: Assets/Scenes/Seni & Budaya/Loading TG/Loadingtgs3.unity
+    guid: 7586788714e6dc744be36210a691aa55
+  - enabled: 1
+    path: Assets/Scenes/Seni & Budaya/Loading pz/ldpzs1.unity
+    guid: fa17bac0384aea140a109f129ad7a3ec
+  - enabled: 1
+    path: Assets/Scenes/Seni & Budaya/Loading pz/ldpzs2.unity
+    guid: effeaa29961c4b94694e89fdce5b41ad
+  - enabled: 1
+    path: Assets/Scenes/Seni & Budaya/Loading pz/ldpzs3.unity
+    guid: 96a6cf4b10d27ee4ba169b02137238b2
+  - enabled: 1
+    path: Assets/Scenes/Main/Piala 1.unity
+    guid: ce222acbaf243654688cb3143d14e4d3
+  - enabled: 1
+    path: Assets/Scenes/Sejarah Indonesia/Kisi-Kisi/Kisi1.unity
+    guid: 51888adbe3fd69b438aac59417067bc4
+  - enabled: 1
+    path: Assets/Scenes/Sejarah Indonesia/Kisi-Kisi/Kisi2.unity
+    guid: 9b692c518fd991d489a852e76f252907
+  - enabled: 1
+    path: Assets/Scenes/Sejarah Indonesia/Kisi-Kisi/Kisi3.unity
+    guid: 8884f517bbfbdb645a3a0759ebc184d0
+  - enabled: 1
+    path: Assets/Scenes/Sejarah Indonesia/Kisi-Kisi/Kisi4.unity
+    guid: 19be9711ca7431541a15b6773638a8e5
+  - enabled: 1
+    path: Assets/Scenes/Sejarah Indonesia/Kisi-Kisi/Kisi5.unity
+    guid: 0925ae7920024914aab4b932cfdda90f
+  - enabled: 1
+    path: Assets/Scenes/Sejarah Indonesia/Kisi-Kisi/Kisi6.unity
+    guid: ddd8e5c15d3d9b047a8def886bdff029
+  - enabled: 1
+    path: Assets/Scenes/Pancasila/Kisi-Kisi/Kisip1.unity
+    guid: a8e61ebb6c44eb84bb7be23e298b8fbc
+  - enabled: 1
+    path: Assets/Scenes/Pancasila/Kisi-Kisi/Kisip2.unity
+    guid: 327634fa93302444d8ec214cf2c3f315
+  - enabled: 1
+    path: Assets/Scenes/Pancasila/Kisi-Kisi/Kisip3.unity
+    guid: 7e007f8f5649f134598fca0d9718693e
+  - enabled: 1
+    path: Assets/Scenes/Pancasila/Kisi-Kisi/Kisip4.unity
+    guid: 11787f61305282b45b32044a6156ec97
+  - enabled: 1
+    path: Assets/Scenes/Pancasila/Kisi-Kisi/Kisip5.unity
+    guid: 1def68f59267cce42b0bfac44331b781
+  - enabled: 1
+    path: Assets/Scenes/Pancasila/Kisi-Kisi/Kisip6.unity
+    guid: 45ef747b20049334487fda75c59c8463
+  - enabled: 1
+    path: Assets/Scenes/Seni & Budaya/Kisi-Kisi/Kisis1.unity
+    guid: c0389226848c05545be437a6f2badf6b
+  - enabled: 1
+    path: Assets/Scenes/Seni & Budaya/Kisi-Kisi/Kisis2.unity
+    guid: 7f94fd1f6a5fb154185480000a647017
+  - enabled: 1
+    path: Assets/Scenes/Seni & Budaya/Kisi-Kisi/Kisis3.unity
+    guid: 1ebf3732b410efc4195e1e3fa145aff8
+  - enabled: 1
+    path: Assets/Scenes/Seni & Budaya/Kisi-Kisi/Kisis4.unity
+    guid: 437f42c830db09a4aaa83fb9eedf38e1
+  - enabled: 1
+    path: Assets/Scenes/Seni & Budaya/Kisi-Kisi/Kisis5.unity
+    guid: f72030cc7d68d174da109794044d3921
+  - enabled: 1
+    path: Assets/Scenes/Seni & Budaya/Kisi-Kisi/Kisis6.unity
+    guid: e79973cc642f3b34eaa13e2ca5b7ef6b
+  m_configObjects: {}
